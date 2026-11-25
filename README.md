@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" markdown="1">
   
 ## **Contacts**
 <a href='https://t.me/sivikgosh' target='_blank'><img src='https://img.shields.io/badge/SivikGosh-white?style=for-the-badge&logo=Telegram&logoColor=26A5E4'></a>
